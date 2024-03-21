@@ -63,7 +63,8 @@ plt.show()
 #Predict y if x=3
 y_3=m*3+b
 print("If x=3 then y=",y_3)
-```
+
+``````
 
 
 ## Output:
