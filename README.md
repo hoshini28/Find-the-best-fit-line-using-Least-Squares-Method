@@ -63,11 +63,12 @@ plt.show()
 #Predict y if x=3
 y_3=m*3+b
 print("If x=3 then y=",y_3)
-
+```
 
 
 ## Output:
-[95a2c616-f621-4236-91af-d03b96edda4a](https://github.com/hoshini28/Find-the-best-fit-line-using-Least-Squares-Method/assets/155607150/db068317-b3db-43d3-9284-12a35b98ce55)
+![Screenshot 2024-03-19 195306](https://github.com/hoshini28/Find-the-best-fit-line-using-Least-Squares-Method/assets/155607150/b4ff41cf-6cae-4ad9-9f2e-a2642bdb8a29)
+
 
 
 ## Result:
